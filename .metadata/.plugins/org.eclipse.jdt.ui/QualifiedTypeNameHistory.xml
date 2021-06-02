@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.learnersAcademy.ClassesList"/>
+    <fullyQualifiedTypeName name="com.learnersAcademy.ClassReports"/>
+    <fullyQualifiedTypeName name="com.learnersAcademy.LoginData"/>
+    <fullyQualifiedTypeName name="com.learnersAcademy.Students"/>
+    <fullyQualifiedTypeName name="com.learnersAcademy.Subjects"/>
+    <fullyQualifiedTypeName name="com.learnersAcademy.Teachers"/>
+</qualifiedTypeNameHistroy>
