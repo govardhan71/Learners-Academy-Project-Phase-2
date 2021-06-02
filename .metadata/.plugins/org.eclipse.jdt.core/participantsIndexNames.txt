@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+E:\Phase-2-Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3319120136.index
+\LearnersAcademyPhase-2\src
+E:\Phase-2-Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2441681664.index
+\Learners Academy\src
+E:\Phase-2-Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\271971956.index
+\Learners Academy\src
+E:\Phase-2-Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4204813328.index
+\LearnersAcademyPhase-2\src
+E:\Phase-2-Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1944995011.index
+\LearnersAcademy\src
